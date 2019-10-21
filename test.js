@@ -12,5 +12,5 @@ app.get("/user", (req, res) => {//api
 })
 
 app.post("/user", (req, res) => {//api
-    res.send({mess : "day la post"})
+    res.send({mess : "day la postttt"})
 })
